@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "testme"
+    "test": "test"
   },
   "repository": {
     "type": "git",
