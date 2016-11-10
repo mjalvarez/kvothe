@@ -1,0 +1,23 @@
+{
+  "name": "kvothe",
+  "version": "1.0.0",
+  "description": "Simple REST API server",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjalvarez/kvothe.git"
+  },
+  "author": "MJ Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjalvarez/kvothe/issues"
+  },
+  "homepage": "https://github.com/mjalvarez/kvothe#readme"
+}
